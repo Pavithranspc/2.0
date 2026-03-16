@@ -54,7 +54,7 @@ public class TC006_VerifyUserIsAbleToCreateCampaignWithAllFieldsTest extends Bas
 	}
 }
 
-//resolved comment
+//resolved comment..
 
 //resolved comment
 
